@@ -1,0 +1,1 @@
+This is a clean MEAN dev environment. More docs to come later.
